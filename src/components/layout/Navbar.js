@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="nav-wrapper grey darken-3">
       <div className="container">
         <Link to="/" className="brand-logo">
-          Connect bazaar - Continuous Integration
+          Connect bazaar - Continuous Integration - From development
         </Link>
         <GuestLinks />
       </div>
